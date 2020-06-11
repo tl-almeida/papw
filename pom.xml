@@ -17,10 +17,10 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>papw</sonar.projectKey>
+		<sonar.projectKey>projeto</sonar.projectKey>
 		<sonar.organization>rodrigofujioka</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>b372b734a4ee72cf170d1b181db6474c5d7f1844</sonar.login>
+		<sonar.host.url>http://localhost:9000</sonar.host.url>
+		<sonar.login>bdc35c7a551160fcffe326d143948237d36fb532</sonar.login>
 	</properties>
 
 	<dependencies>
